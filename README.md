@@ -102,5 +102,6 @@ fetch(url)
 Vous avez maintenant un tableau HTML qui affiche les données de l'API randomuser.me de manière dynamique. Vous pouvez facilement adapter ce guide à d'autres structures de données ou à d'autres besoins d'affichage.
 
 ```yaml
+---
 Ce README donne une vue d'ensemble du processus d'intégration des données utilisateur dans un tableau HTML. Vous pouvez copier et coller ce contenu dans un fichier `README.md` à la racine de votre projet.
 ```
